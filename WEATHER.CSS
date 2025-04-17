@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+}
+.container{
+    margin: 200px 0 0 570px;
+    border: 2px solid black;
+    max-width: 250px;
+    padding: 50px;
+    background-color: white;
+}
+.header{
+    padding-left: 20px;
+}
+.search input{
+    width: 200px;
+    margin-left: 25px;
+    line-height: 25px;
+    border-radius: 10px;
+    border: 2px solid greenyellow;
+}
+.search button{
+    margin: 25px 0 0 85px;
+    font-size: 20px;
+    color: blue;
+    background-color: aqua;
+    border: 2px solid yellow;
+}
+.result{
+    margin-left: 50px;
+}

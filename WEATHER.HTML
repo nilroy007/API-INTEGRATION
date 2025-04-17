@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+    <link rel="stylesheet" href="weather.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Check Weather</h1>
+        </div>
+        <div class="search">
+            <input type="text" placeholder="Search weather for your city" id="city">
+            <button id="btn">Search</button>
+        </div>
+        <div class="result"></div>
+    </div>
+    <script src="weather.js"></script>
+</body>
+</html>
